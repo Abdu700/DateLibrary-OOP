@@ -1,0 +1,29 @@
+﻿  Date Library Project.cpp
+C:\Users\ZELDAAA\Desktop\Programming\10 - OOP as it Should Be (Concepts)\Date Library Project\Date Library Project\clsDate.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Date%20Library%20Project.cpp')
+  
+C:\Users\ZELDAAA\Desktop\Programming\10 - OOP as it Should Be (Concepts)\Date Library Project\Date Library Project\clsString.h(38,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Date%20Library%20Project.cpp')
+  
+C:\Users\ZELDAAA\Desktop\Programming\10 - OOP as it Should Be (Concepts)\Date Library Project\Date Library Project\clsString.h(134,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Date%20Library%20Project.cpp')
+  
+C:\Users\ZELDAAA\Desktop\Programming\10 - OOP as it Should Be (Concepts)\Date Library Project\Date Library Project\clsString.h(244,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Date%20Library%20Project.cpp')
+  
+C:\Users\ZELDAAA\Desktop\Programming\10 - OOP as it Should Be (Concepts)\Date Library Project\Date Library Project\clsString.h(269,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Date%20Library%20Project.cpp')
+  
+C:\Users\ZELDAAA\Desktop\Programming\10 - OOP as it Should Be (Concepts)\Date Library Project\Date Library Project\clsString.h(294,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Date%20Library%20Project.cpp')
+  
+C:\Users\ZELDAAA\Desktop\Programming\10 - OOP as it Should Be (Concepts)\Date Library Project\Date Library Project\clsString.h(331,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Date%20Library%20Project.cpp')
+  
+C:\Users\ZELDAAA\Desktop\Programming\10 - OOP as it Should Be (Concepts)\Date Library Project\Date Library Project\clsString.h(398,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Date%20Library%20Project.cpp')
+  
+C:\Users\ZELDAAA\Desktop\Programming\10 - OOP as it Should Be (Concepts)\Date Library Project\Date Library Project\clsString.h(403,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Date%20Library%20Project.cpp')
+  
+  Date Library Project.vcxproj -> C:\Users\ZELDAAA\Desktop\Programming\10 - OOP as it Should Be (Concepts)\Date Library Project\x64\Debug\Date Library Project.exe
